@@ -1,0 +1,23 @@
+body {
+    text-align: center
+}
+
+table {
+    width: 40%;
+    margin: 0 auto;
+}
+
+table td {
+    width: 20%;
+    height: 40px;
+    text-align: center;
+    background-color: rgb(76, 167, 159);
+    cursor: pointer;
+}
+
+.table-back-button {
+    padding: 10px 30px;
+    margin-top: 30px;
+    width: 20%;
+    cursor: pointer;
+}

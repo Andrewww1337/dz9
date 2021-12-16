@@ -10,7 +10,7 @@ function incrementElement (e){
 
 
 const decrementElement = (e) => {
-    e.target.innerHTML = Number(e.target.innerHTML) -1;
+    e.target.innerHTML = Number(e.target.innerHTML) -3;
     console.log("dable")
 };
 
